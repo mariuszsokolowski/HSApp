@@ -1,0 +1,5 @@
+*/node_modules/*
+*.xlsx
+*/bin/*
+*/.vs/
+*/.vscode/

@@ -1,0 +1,9 @@
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\bin\Debug\netcoreapp2.1\HealthStabilizer.Data.deps.json
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\bin\Debug\netcoreapp2.1\HealthStabilizer.Data.dll
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\bin\Debug\netcoreapp2.1\HealthStabilizer.Data.pdb
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\obj\Debug\netcoreapp2.1\HealthStabilizer.Data.csprojAssemblyReference.cache
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\obj\Debug\netcoreapp2.1\HealthStabilizer.Data.csproj.CoreCompileInputs.cache
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\obj\Debug\netcoreapp2.1\HealthStabilizer.Data.AssemblyInfoInputs.cache
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\obj\Debug\netcoreapp2.1\HealthStabilizer.Data.AssemblyInfo.cs
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\obj\Debug\netcoreapp2.1\HealthStabilizer.Data.dll
+C:\Users\msokolowski\source\repos\HealthStabilizer\HealthStabilizer.Data\obj\Debug\netcoreapp2.1\HealthStabilizer.Data.pdb
